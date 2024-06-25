@@ -1,0 +1,63 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\E4
+vparking
+Z1 I>6eB;[SI>@=a<3EOz<PD:1
+Z2 Vj`Z`FezlTA:KET<o1DI<^2
+Z3 dC:\altera\13.1\dsdproject
+Z4 w1719344338
+Z5 8C:/altera/13.1/dsdproject/parking.v
+Z6 FC:/altera/13.1/dsdproject/parking.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/altera/13.1/dsdproject/parking.v|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 <[_SJmn?KRd0Pbhh3Y^Xd1
+!s85 0
+Z11 !s108 1719344346.235000
+Z12 !s107 C:/altera/13.1/dsdproject/parking.v|
+!s101 -O0
+vTB
+!i10b 1
+Z13 !s100 0l@J8CcHGSI[8;DDW0be?2
+Z14 InjHfW91h@7aVWDD7MGkn33
+Z15 Vc<=32996OT2f`M7E_UhYX1
+R3
+w1719344268
+Z16 8C:/altera/13.1/dsdproject/TB.v
+Z17 FC:/altera/13.1/dsdproject/TB.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1719344346.268000
+!s107 C:/altera/13.1/dsdproject/TB.v|
+Z18 !s90 -reportprogress|300|-work|work|C:/altera/13.1/dsdproject/TB.v|
+!s101 -O0
+R9
+n@t@b
+vtb_parking
+Z19 IN4B?n@aBi4YR__YK>ac:61
+Z20 Vz[8>=L;9H2K7UFNI4`HOg2
+R3
+Z21 w1719331863
+R16
+R17
+L0 1
+R7
+r1
+31
+R18
+R9
+Z22 !s100 z6MUa60I^0;LQ^_E12ofn0
+Z23 !s108 1719331870.593000
+Z24 !s107 C:/altera/13.1/dsdproject/TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
